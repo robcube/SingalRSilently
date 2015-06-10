@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d3ssignalr", "d3ssignalr\d3ssignalr.csproj", "{D476F39A-6E09-4685-BF95-5C21C0F701E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportLogRun", "ReportLogRun\ReportLogRun.csproj", "{851176D9-2FAF-4289-9847-74288784884A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D787508F-9D93-4C9D-892E-3C4A4E2BF147}"
+	ProjectSection(SolutionItems) = preProject
+		DenverDevDay Outline.docx = DenverDevDay Outline.docx
+		SignalR Silently.pptx = SignalR Silently.pptx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d3poll", "d3poll\d3poll.csproj", "{463AF642-326D-45E9-B080-2C98D116E148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D476F39A-6E09-4685-BF95-5C21C0F701E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D476F39A-6E09-4685-BF95-5C21C0F701E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D476F39A-6E09-4685-BF95-5C21C0F701E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D476F39A-6E09-4685-BF95-5C21C0F701E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851176D9-2FAF-4289-9847-74288784884A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851176D9-2FAF-4289-9847-74288784884A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851176D9-2FAF-4289-9847-74288784884A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851176D9-2FAF-4289-9847-74288784884A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463AF642-326D-45E9-B080-2C98D116E148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463AF642-326D-45E9-B080-2C98D116E148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463AF642-326D-45E9-B080-2C98D116E148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463AF642-326D-45E9-B080-2C98D116E148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
